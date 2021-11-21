@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color:deeppink
+}
+
+.App {
+  text-align: center;
+}
+
+.carrossel{
+  margin-top: 100px;
+}
+
+img{
+  width: 85w;
+  height: 100vh;
+  border-style: solid;
+  border-color:fuchsia
+}
